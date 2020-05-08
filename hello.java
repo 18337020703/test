@@ -1,3 +1,4 @@
 {hello world}
 private String name;
-privata Integer age;
+private Integer age;
+private Date bir;
