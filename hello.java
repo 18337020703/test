@@ -1,2 +1,3 @@
 {hello world}
-{private String name;}
+private String name;
+privata Integer age;
